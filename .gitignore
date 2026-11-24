@@ -1,0 +1,6 @@
+src/jucompiler
+src/y.tab.c
+src/y.tab.h
+src/lex.yy.c
+*.ll
+*.o
